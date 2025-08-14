@@ -25,6 +25,7 @@ Validación: express-validator
 
 Auth: JWT + bcrypt
 
+```text
 📁 Estructura del proyecto
 zentimes-backend/
 ├─ src/
@@ -39,6 +40,7 @@ zentimes-backend/
 ├─ .env                 # Variables de entorno (no commitear)
 ├─ package.json
 └─ README.md
+```
 
 🔐 Variables de entorno
 
